@@ -46,7 +46,7 @@ Animal Farm Search é uma aplicação web full-stack que permite explorar um cat
 
 1. Clone the repository
 ```bash
-git clone https://github.com/falaneh/animalfarm-search.git
+git clone https://github.com/falaneh/react-animalfarm-search
 ```
 
 2. Install and start the frontend
